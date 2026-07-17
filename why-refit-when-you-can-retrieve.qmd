@@ -1,5 +1,5 @@
 ---
-title: "<span style='font-size: 1.7em;'>Why refit when you can retrieve<span style='color:#FFFFFF;'>?</span><br>Advancing local chemometrics with <br><span style='color:#2A76DD; font-weight:bold; font-style:italic;'>model libraries</span></span>"
+title: "<span style='font-size: 1.7em;'>Why refit when you can retrieve<span style='color:#2A76DD;'>?</span><br>Advancing local chemometrics with <br><span style='color:#2A76DD; font-weight:bold; font-style:italic;'>model libraries</span></span>"
 
 subtitle: "<span style='font-size: 0.5em;'>International Diffuse Reflectance Conference 2026</span>"
 author:
@@ -8,7 +8,7 @@ author:
   - name: "<span style='color:#888888;'>Matthieu <br>Lesnoff</span>"  
   - name: "<span style='color:#888888;'>Claudio <br>Orellano</span>" 
   - name: "<span style='color:#888888;'>Estefania <br>Perez-Fernandez</span>" 
-  - name: "<span style='color:#2A76DD; font-weight:bold; text-decoration:underline;'>Marçal</span> <br><span style='color:#2A76DD; font-weight:bold; text-decoration:underline;'>Plans</span>"
+  - name: "<span style='color:#64b445; font-weight:bold; text-decoration:underline;'>Marçal</span> <br><span style='color:#64b445; font-weight:bold; text-decoration:underline;'>Plans</span>"
 date: "2026-July-22"
 bibliography: reference-list.bib
 csl: elsevier-harvard.csl
