@@ -161,6 +161,13 @@
     "text": "Our contributions\n\nReformulate MBL: retrieval and aggregation of pre-computed local experts, replacing per-query refitting\nRetrieval-gated ensembling via centroid dissimilarity, decoupling neighbourhood definition from model centring\nIntrinsic per-sample uncertainty proxy from expert dispersion\nDeployment without full-library access, supporting privacy-preserving collaboration"
   },
   {
+    "objectID": "why-refit-when-you-can-retrieve.html#section-8",
+    "href": "why-refit-when-you-can-retrieve.html#section-8",
+    "title": "Why refit when you can retrieve?Advancing local chemometrics with model libraries",
+    "section": "",
+    "text": "📢 WORKSHOP ANNOUNCEMENT!\n\nApplied NIR spectroscopy: from theory to calibration and instrumentation\nJoin us at North Carolina State University (NCSU), Raleigh, NC, from 9\\(^{th}\\) to 11\\(^{th}\\) November 2026!\n\nOrganisers: Miguel Castillo (NCSU), Juan José Acosta (Camcore), Marçal Plans (BÜCHI) and Leonardo Ramirez-Lopez (BÜCHI)\n\n\nThis presentation:"
+  },
+  {
     "objectID": "why-refit-when-you-can-retrieve.html#references",
     "href": "why-refit-when-you-can-retrieve.html#references",
     "title": "Why refit when you can retrieve?Advancing local chemometrics with model libraries",
