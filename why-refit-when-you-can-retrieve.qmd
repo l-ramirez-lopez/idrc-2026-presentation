@@ -332,7 +332,39 @@ This presentation:
 #| fig-width: 3
 #| fig-height: 3
 library(qrcode)
-plot(qr_code("https://l-ramirez-lopez.github.io/idrc-2026-presentation/"))
+my_qr <- qr_code("https://l-ramirez-lopez.github.io/idrc-2026-presentation/")
+plot(my_qr)
+```
+
+
+## {background-color="#A0522D"}
+
+::: {.large-text}
+__📢 WORKSHOP ANNOUNCEMENT!__ 
+::: 
+
+___Applied NIR spectroscopy: from theory to calibration and instrumentation___
+
+Join us at North Carolina State University (NCSU), Raleigh, NC, from 9$^{th}$ to 11$^{th}$ November 2026!
+
+::: {.small-text2}
+___Organisers___: Miguel Castillo (NCSU), Juan José Acosta (Camcore), Marçal Plans (BÜCHI) and Leonardo Ramirez-Lopez (BÜCHI)
+::: 
+
+::: {.small-text3}
+This presentation: 
+::: 
+
+```{r}
+#| echo: false
+#| eval: true
+#| fig-align: left
+#| fig-width: 2
+#| fig-height: 2
+#| label: qr-code
+library(qrcode)
+my_qr <- qr_code("https://l-ramirez-lopez.github.io/idrc-2026-presentation/")
+plot(my_qr)
 ```
 
 

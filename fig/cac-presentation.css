@@ -1,3 +1,4 @@
+
 .reveal .slide-background.present:first-child::after {
   content: "";
   position: absolute;
@@ -42,6 +43,16 @@
 .small-text2 {
   font-size: 70%;
 }
+
+.small-text3 {
+  font-size: 60%;
+}
+
+
+.large-text {
+  font-size: 150%;
+}
+
 
 .reveal h1,
 .reveal h2 {
