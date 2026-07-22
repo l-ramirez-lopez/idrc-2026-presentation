@@ -291,7 +291,7 @@ liblex()
 
 [https://cran.r-project.org/package=resemble](https://cran.r-project.org/package=resemble)
 
-and matlab?
+and __matlab__ version of `liblex` prepared by __Erik Andries__
 
 ## Future work {background-color="#000000"}
 
